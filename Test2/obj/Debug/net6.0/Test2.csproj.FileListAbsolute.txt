@@ -1,0 +1,15 @@
+/Users/turuumendbayr/RiderProjects/Test2/Test2/bin/Debug/net6.0/Test2
+/Users/turuumendbayr/RiderProjects/Test2/Test2/bin/Debug/net6.0/Test2.deps.json
+/Users/turuumendbayr/RiderProjects/Test2/Test2/bin/Debug/net6.0/Test2.runtimeconfig.json
+/Users/turuumendbayr/RiderProjects/Test2/Test2/bin/Debug/net6.0/Test2.dll
+/Users/turuumendbayr/RiderProjects/Test2/Test2/bin/Debug/net6.0/Test2.pdb
+/Users/turuumendbayr/RiderProjects/Test2/Test2/obj/Debug/net6.0/Test2.csproj.AssemblyReference.cache
+/Users/turuumendbayr/RiderProjects/Test2/Test2/obj/Debug/net6.0/Test2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/turuumendbayr/RiderProjects/Test2/Test2/obj/Debug/net6.0/Test2.AssemblyInfoInputs.cache
+/Users/turuumendbayr/RiderProjects/Test2/Test2/obj/Debug/net6.0/Test2.AssemblyInfo.cs
+/Users/turuumendbayr/RiderProjects/Test2/Test2/obj/Debug/net6.0/Test2.csproj.CoreCompileInputs.cache
+/Users/turuumendbayr/RiderProjects/Test2/Test2/obj/Debug/net6.0/Test2.dll
+/Users/turuumendbayr/RiderProjects/Test2/Test2/obj/Debug/net6.0/refint/Test2.dll
+/Users/turuumendbayr/RiderProjects/Test2/Test2/obj/Debug/net6.0/Test2.pdb
+/Users/turuumendbayr/RiderProjects/Test2/Test2/obj/Debug/net6.0/Test2.genruntimeconfig.cache
+/Users/turuumendbayr/RiderProjects/Test2/Test2/obj/Debug/net6.0/ref/Test2.dll
